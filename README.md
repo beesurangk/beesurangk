@@ -1,6 +1,6 @@
 <h2> Hi, I'm Bee! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Economics at <a href="http://www.unb.br">Chiang Mai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full stack bootcamp at <a href="https://www.thoughtworks.com">Westride</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Economics at <a href="http://www.unb.br">Chiang Mai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full stack developer bootcamp at <a href="https://www.thoughtworks.com">Westride</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </br>Sofware Tester at <a href="https://www.thoughtworks.com">Kru P'Beam</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
