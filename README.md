@@ -14,9 +14,8 @@
 ```javascript
 const bee = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python, SQL],
-  tools: [React, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Python, SQL, ML, DL, RAG],
+  tools: [LangChain, Pinecone, Git],
   Alittlemoreforme: {
                         It doesn't matter you don't have experience
                         You can come from anywhere but if you interested,
@@ -26,7 +25,6 @@ const bee = {
                         however you can
                         
                       },
- challenge: "I am doing the #21DaysOfCode challenge focused on Javascript"
 }
 ```
 
