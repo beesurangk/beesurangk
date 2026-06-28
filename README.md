@@ -13,17 +13,6 @@ const bee = {
   pronouns: "she" | "her",
   code: [Python, SQL, ML, DL, RAG],
   tools: [LangChain, Pinecone, Git],
-  Alittlemoreforme: {
-                        It doesn't matter you don't have experience
-                        You can come from anywhere but if you interested,
-                        it's a good start
-
-                        you gotta go out and get what you want
-                        however you can
-                        
-                      },
-}
-```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
