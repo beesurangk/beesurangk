@@ -11,8 +11,12 @@
 ```javascript
 const bee = {
   pronouns: "she" | "her",
-  code: [Python, SQL, ML, DL, RAG],
-  tools: [LangChain, Pinecone, Git],
+  languages: [Python, SQL],
+  ai: [Machine Learning, Deep Learning, LLMs, RAG, Prompt Engineering]
+  tools: [Git, Docker, VS Code, Jupyter],
+  frameworks: [LangChain, LlamaIndex, Hugging Face, PyTorch, scikit-learn],
+  vectorDB: [Pinecone, FAISS, ChromaDB],
+  currentlyLearning: [LangGraph, Agentic AI, MCP]
 }
 ```
 
