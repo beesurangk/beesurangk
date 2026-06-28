@@ -1,6 +1,6 @@
 <h2> Hi, I'm Bee! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Economics at <a href="http://www.cmu.ac.th">Chiang Mai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Master of Computer Science at <a href="https://www.we-stride.com">Chiang Mai University</a>
+<p><em>bachelor of Economics at <a href="http://www.cmu.ac.th">Chiang Mai University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Master of Computer Science at <a href="https://www.we-stride.com">Chiang Mai University</a>
 
 
 [![Linkedin: Surangkana](https://img.shields.io/badge/-Surangkana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Surangkana/)](https://www.linkedin.com/in/surangkana-takanta-01b03b111/)
